@@ -26,3 +26,14 @@ body{
     margin-bottom: 50px;
     color: #77ffc0;
 }
+
+video{
+    margin-bottom: 50px;
+}
+
+@media only screen and  (max-width:500px){
+    video{
+        width: 350px;
+        margin-bottom: 50px;
+    }
+}
